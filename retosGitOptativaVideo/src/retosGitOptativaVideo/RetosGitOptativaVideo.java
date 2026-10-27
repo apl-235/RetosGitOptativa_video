@@ -9,7 +9,9 @@ public class RetosGitOptativaVideo {
 		System.out.println("esta es la primera prueba");
 		
 		System.out.println("esta es la segunda prueba");
-		
+
+			int m = 0;
+			
 	}
 	
 }
